@@ -1,4 +1,4 @@
 # PDF_to_Speech
 #
-#python main.py FILENAME.pdf
+python main.py FILENAME.pdf
 #
